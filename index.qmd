@@ -36,9 +36,10 @@ I completed my PhD in Statistics at The University of Texas at Austin under the 
 I am originally from <a style="color:rgb(205,38,38);" href="https://en.wikipedia.org/wiki/Udine">Udine</a>, Italy, and I obtained both my BSc and MSc at Politecnico di Milano in Mathematical Engineering. 
 I also spent two years at École Centrale Paris, France, for a double degree program (<a style="color:rgb(205,38,38);" href="https://en.wikipedia.org/wiki/Top_Industrial_Managers_for_Europe">T.I.M.E</a>).
 <br>
+<br>
 I love photography and I am passionate about travelling.
 **Photography** is a mental exercise that helps me to focus and to relax. 
 **Travelling** gives me many motivations and helps me finding the unexpected outside of my daily routine.
 
-![Udine, Italy](img/udine.jpg){fig-align="center"}
+![Udine, Italy](img/udine.jpg){fig-align="right"}
 :::
