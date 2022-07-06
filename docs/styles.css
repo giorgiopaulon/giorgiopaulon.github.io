@@ -1,0 +1,51 @@
+
+/* css styles */
+a:link {
+    color: rgb(140,140,140); 
+    background-color: transparent; 
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(140,140,140); 
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(180,180,180); 
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+.social_link a:hover {
+    background-color: transparent;
+}
+
+.title {
+  margin-top: 2em !important;
+  margin-bottom: 0.75em;
+}
+
+.section h1,
+.section h2, 
+.section h3, 
+.section h4, 
+.section h5 { 
+  padding-top: 3em !important; /*adding so much padding because theme adds a margin-top: -65px by default */
+  margin-bottom: 0.75em;
+}
+
+@media (min-width: 992px) {
+    .col-md-9 {
+      width: 75%;
+      padding-left: 5em !important;
+    }
+ }
+ 
+/*------------- Whole Document---------------- */
+body {
+  font-size: 19px;
+}
+
+

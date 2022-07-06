@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  search: false
+  title: "giorgiopaulon.github.io"
+  site-url: "https://giorgiopaulon.github.io"
+  reader-mode: false
+  navbar:
+    title: false
+    background: light
+    pinned: true
+    left:
+      - text: "About"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "CV"
+        href: /files/Paulon_CV.pdf
+    right:
+      - icon: github
+        href: https://github.com/giorgiopaulon
+      - icon: linkedin
+        href: https://www.linkedin.com/in/giorgiopaulon
+      - icon: google
+        href: https://scholar.google.it/citations?user=j-caV3AAAAAJ&hl=en
+  page-footer:
+    center:
+      - text: "© 2022 Giorgio Paulon"
+
+format:
+  html:
+    toc: false
+    theme: cosmo
+    css: styles.css
+    code-overflow: wrap

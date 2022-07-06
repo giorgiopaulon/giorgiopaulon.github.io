@@ -1,0 +1,44 @@
+---
+title: "Giorgio Paulon"
+about:
+  id: about-heading
+  template: jolla
+  image: img/profile_pic.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/giorgiopaulon
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/giorgiopaulon
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=j-caV3AAAAAJ&hl=en&oi=ao  
+---
+
+
+:::{#about-heading}
+<div style="text-align: center;">
+Statistical Scientist at [Berry Consultants](https://www.berryconsultants.com/) 
+<br>
+<i class="bi bi-envelope-fill"></i> [giorgio.paulon@utexas.edu](mailto:giorgio.paulon@utexas.edu) 
+<br>
+<i class="bi bi-geo-alt-fill"></i> Austin, TX
+</div>
+:::
+
+
+I am Giorgio Paulon, Statistical Scientist at [Berry Consultants](https://www.berryconsultants.com/) where I work on designing and analyzing innovative and adaptive clinical trials. 
+I completed my PhD in Statistics at The University of Texas at Austin under the joint supervision of [Abhra Sarkar](https://abhrastat.github.io) and [Peter Müller](https://www.ma.utexas.edu/users/pmueller/).
+              
+
+::: {layout-ncol=2}
+I am originally from <a style="color:rgb(205,38,38);" href="https://en.wikipedia.org/wiki/Udine">Udine</a>, Italy, and I obtained both my BSc and MSc at Politecnico di Milano in Mathematical Engineering. 
+I also spent two years at École Centrale Paris, France, for a double degree program (<a style="color:rgb(205,38,38);" href="https://en.wikipedia.org/wiki/Top_Industrial_Managers_for_Europe">T.I.M.E</a>).
+<br>
+I love photography and I am passionate about travelling.
+**Photography** is a mental exercise that helps me to focus and to relax. 
+**Travelling** gives me many motivations and helps me finding the unexpected outside of my daily routine.
+
+![Udine, Italy](img/udine.jpg){fig-align="center"}
+:::
