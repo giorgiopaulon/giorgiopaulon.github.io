@@ -21,7 +21,7 @@ about:
 <div style="text-align: center;">
 Statistical Scientist at [Berry Consultants](https://www.berryconsultants.com/) 
 <br>
-<i class="bi bi-envelope-fill"></i> [giorgio.paulon@utexas.edu](mailto:giorgio.paulon@utexas.edu) 
+<i class="bi bi-envelope-fill"></i> Contact me [here](mailto:giorgiopaulon90@gmail.com) 
 <br>
 <i class="bi bi-geo-alt-fill"></i> Austin, TX
 </div>
