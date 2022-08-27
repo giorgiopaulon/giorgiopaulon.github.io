@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-0.9.598">
+<meta name="generator" content="quarto-1.0.37">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -27,7 +27,7 @@ ul.task-list{list-style: none;}
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -41,6 +41,7 @@ ul.task-list{list-style: none;}
     "search-submit-button-title": "Submit"
   }
 }</script>
+<style>html{ scroll-behavior: smooth; }</style>
 
 
 <link rel="stylesheet" href="styles.css">
@@ -79,7 +80,7 @@ ul.task-list{list-style: none;}
  </a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://scholar.google.it/citations?user=j-caV3AAAAAJ&amp;hl=en"><i class="bi bi-google" role="img">
+    <a class="nav-link" href="https://scholar.google.it/citations?user=j-caV3AAAAAJ&amp;hl=en"><i class="bi bi-mortarboard-fill" role="img">
 </i> 
  </a>
   </li>  
@@ -109,7 +110,7 @@ ul.task-list{list-style: none;}
   </div>
 </header><div id="about-heading">
 <div style="text-align: center;">
-<p>Statistical Scientist at <a href="https://www.berryconsultants.com/">Berry Consultants</a> <br> <i class="bi bi-envelope-fill"></i> Contact me <a href="mailto:giorgiopaulon90@gmail.com">here</a> <br> <i class="bi bi-geo-alt-fill"></i> Austin, TX</p>
+<p><i class="bi bi-laptop-fill"></i> Statistical Scientist @ <a href="https://www.berryconsultants.com/">Berry Consultants</a> <br> <i class="bi bi-envelope-fill"></i> Contact me <a href="mailto:giorgiopaulon90@gmail.com">here</a> <br> <i class="bi bi-geo-alt-fill"></i> Austin, TX</p>
 </div>
 </div> 
   <hr class="about-sep">
@@ -123,13 +124,13 @@ ul.task-list{list-style: none;}
      <span class="about-link-text">LinkedIn</span>
   </a>
   <a href="https://scholar.google.com/citations?user=j-caV3AAAAAJ&amp;hl=en&amp;oi=ao" class="about-link">
-    <i class="bi bi-google"></i>
+    <i class="bi bi-mortarboard-fill"></i>
      <span class="about-link-text">Google Scholar</span>
   </a>
 </div>
 </div>
 
-<p>I am Giorgio Paulon, Statistical Scientist at <a href="https://www.berryconsultants.com/">Berry Consultants</a> where I work on designing and analyzing innovative and adaptive clinical trials. I completed my PhD in Statistics at The University of Texas at Austin under the joint supervision of <a href="https://abhrastat.github.io">Abhra Sarkar</a> and <a href="https://www.ma.utexas.edu/users/pmueller/">Peter Müller</a>.</p>
+<p>I am a Statistical Scientist at <a href="https://www.berryconsultants.com/">Berry Consultants</a> where I work on designing and analyzing innovative and adaptive clinical trials. I completed my PhD in Statistics at The University of Texas at Austin under the joint supervision of <a href="https://abhrastat.github.io">Abhra Sarkar</a> and <a href="https://www.ma.utexas.edu/users/pmueller/">Peter Müller</a>.</p>
 <div class="quarto-layout-panel">
 <div class="quarto-layout-row quarto-layout-valign-top">
 <div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
@@ -139,7 +140,7 @@ ul.task-list{list-style: none;}
 <div class="quarto-figure quarto-figure-right">
 <figure class="figure">
 <p><img src="img/udine.jpg" class="img-fluid figure-img"></p>
-<p></p><figcaption aria-hidden="true" class="figure-caption">Udine, Italy</figcaption><p></p>
+<p></p><figcaption class="figure-caption">Udine, Italy</figcaption><p></p>
 </figure>
 </div>
 </div>
@@ -152,6 +153,24 @@ ul.task-list{list-style: none;}
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
   const clipboard = new window.ClipboardJS('.code-copy-button', {
     target: function(trigger) {
       return trigger.previousElementSibling;
@@ -237,4 +256,5 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
+<script src="site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>
