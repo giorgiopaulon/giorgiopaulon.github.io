@@ -1,0 +1,386 @@
+
+/*-- scss:defaults --*/
+
+$theme: "sandstone" !default;
+
+// Color system
+$white:    #fff !default;
+$gray-100: #f8f9fa !default;
+$gray-200: #f8f5f0 !default;
+$gray-300: #dfd7ca !default;
+$gray-400: #ced4da !default;
+$gray-500: #98978b !default;
+$gray-600: #8e8c84 !default;
+$gray-700: #495057 !default;
+$gray-800: #3e3f3a !default;
+$gray-900: #212529 !default;
+$black:    #000 !default;
+
+$red: #bf2642 !default;
+$orange: #f2a03d !default;
+$green: #02733e !default;
+$purple: #73245e !default;
+$beige: #f8f5f0 !default;
+$blue: #00817c !default;
+$indigo:  #6610f2 !default;
+$pink:    #e83e8c !default;
+$yellow:  #ffc107 !default;
+$teal:    #20c997 !default;
+$cyan:    #29abe0 !default;
+
+$primary:       $blue !default;
+$secondary:     $gray-600 !default;
+$success:       $green !default;
+$info:          $cyan !default;
+$warning:       $orange !default;
+$danger:        $red !default;
+$light:         $gray-200 !default;
+$dark:          $black !default;
+
+$min-contrast-ratio:   2 !default;
+
+
+// Body colors
+$body-color:                $dark !default; // color of main text
+$body-bg:                   $light !default; // color of background
+
+
+// Body fon sizes
+$font-size-base:              1.1rem !default; // main font size
+$headings-font-weight:        400 !default; // thickness of h1, ..., h6
+$h1-font-size:                $font-size-base * 2.5 !default; 
+$h2-font-size:                $font-size-base * 2 !default;
+$h3-font-size:                $font-size-base * 1.75 !default;
+$h4-font-size:                $font-size-base * 1.5 !default;
+$h5-font-size:                $font-size-base * 1.25 !default;
+$h6-font-size:                $font-size-base !default;
+$small-font-size:             .75em !default;
+
+
+// Links
+$link-color:       $gray-600 !default; // color of links
+$link-hover-color: $gray-500 !default; // color of links on hover
+$link-decoration: transparent !default; // do not underline links by default
+$link-hover-decoration: underline !default; // underline links on hover
+
+
+// Navbar
+$navbar-bg: $light !default; // background for top navigation bar
+$navbar-fg: $gray-500 !default; // text for top navigation bar
+
+
+
+/*
+// Dropdowns
+$dropdown-link-color:               $gray-600 !default;
+$dropdown-link-hover-color:         $dropdown-link-color !default;
+$dropdown-link-hover-bg:            $gray-200 !default;
+$dropdown-link-active-color:        $dropdown-link-color !default;
+$dropdown-link-active-bg:           $dropdown-link-hover-bg !default;
+
+
+// Navs
+$nav-link-padding-x:                .9rem !default;
+$nav-link-disabled-color:           $gray-300 !default;
+$nav-tabs-border-color:             $gray-300 !default;
+$nav-tabs-link-hover-border-color:  $gray-300 !default;
+$nav-tabs-link-active-bg:           $white !default;
+$nav-pills-link-active-color:       $gray-600 !default;
+$nav-pills-link-active-bg:          $gray-200 !default;
+
+
+// Pagination
+$pagination-color:                  $gray-600 !default;
+$pagination-bg:                     $gray-200 !default;
+$pagination-border-color:           $gray-300 !default;
+$pagination-hover-color:            $pagination-color !default;
+$pagination-active-color:           $pagination-color !default;
+$pagination-active-bg:              $gray-300 !default;
+$pagination-active-border-color:    $gray-300 !default;
+$pagination-disabled-color:         $gray-300 !default;
+$pagination-disabled-bg:            $gray-200 !default;
+$pagination-disabled-border-color:  $pagination-border-color !default;
+
+// Popovers
+$popover-header-bg:                 $gray-200 !default;
+
+// Modals
+$modal-content-border-color:        $gray-300 !default;
+$modal-header-border-color:         $modal-content-border-color !default;
+
+// Progress bars
+$progress-bg:                       $gray-300 !default;
+$progress-border-radius:            10px !default;
+$progress-bar-color:                $primary !default;
+
+// List group
+$list-group-border-color:           $gray-300 !default;
+$list-group-hover-bg:               $gray-200 !default;
+$list-group-active-color:           $body-color !default;
+$list-group-active-bg:              $gray-200 !default;
+$list-group-active-border-color:    $gray-300 !default;
+$list-group-disabled-color:         $gray-500 !default;
+$list-group-disabled-bg:            $white !default;
+$list-group-action-color:           $list-group-active-color !default;
+$list-group-action-active-color:    $list-group-active-color !default;
+$list-group-action-active-bg:       $gray-300 !default;
+
+// Breadcrumbs
+$breadcrumb-padding-y:              .375rem !default;
+$breadcrumb-padding-x:              .75rem !default;
+$breadcrumb-bg:                     $pagination-bg !default;
+$breadcrumb-border-radius:          .25rem !default;
+
+// Close
+$btn-close-color:            $white !default;
+$btn-close-opacity:          .8 !default;
+$btn-close-hover-opacity:    1 !default;
+*/
+
+
+/*-- scss:rules --*/
+
+
+// This removes the horizontal line before the footer
+.nav-footer {
+  border-top: none !important; 
+}
+
+
+// Change size and style for captions
+.figure-caption {
+    line-height: 8px;
+    font-size: 14px; 
+    font-style: italic;
+    text-align: center;
+}
+
+
+// Modify top navigation bar
+.sandstone {
+  font-size: 18px; // font size for top navigation bar
+  line-height: 18px; // top padding for top navigation bar
+  font-weight: 500; // font thickness for top navigation bar
+  text-transform: uppercase; // font transformation for top navigation bar
+}
+
+.navbar {
+  .nav-link {
+    @extend .sandstone;
+  }
+
+  &-form input,
+  &-form .form-control {
+    border: none;
+  }
+}
+
+
+
+/*
+// Tables
+.table {
+  .thead-dark th {
+    background-color: $dark;
+  }
+}
+
+
+// Navbar
+.bg-primary {
+  background-color: $dark !important;
+}
+
+.bg-dark {
+  background-color: $secondary !important;
+}
+
+.bg-light {
+  background-color: $gray-200 !important;
+}
+
+
+// Buttons
+.btn {
+  @extend .sandstone;
+
+  &:hover {
+    border-color: transparent;
+  }
+
+  &-success,
+  &-warning {
+    color: $white;
+  }
+}
+
+
+// Forms
+input,
+.form-control {
+  @include box-shadow(none);
+
+  &:focus {
+    @include box-shadow(none);
+  }
+}
+
+
+// Navs
+.nav-tabs {
+  .nav-link {
+    @extend .sandstone;
+    background-color: $gray-200;
+    border-color: $gray-300;
+  }
+
+  .nav-link,
+  .nav-link:hover,
+  .nav-link:focus {
+    color: $gray-600;
+  }
+
+  .nav-link.disabled,
+  .nav-link.disabled:hover,
+  .nav-link.disabled:focus {
+    background-color: $gray-200;
+    border-color: $gray-300;
+    color: $nav-link-disabled-color;
+  }
+}
+
+.nav-pills {
+  .nav-link {
+    @extend .sandstone;
+    border: 1px solid transparent;
+    color: $gray-600;
+  }
+
+  .nav-link.active,
+  .nav-link:hover,
+  .nav-link:focus {
+    background-color: $gray-200;
+    border-color: $gray-300;
+  }
+
+  .nav-link.disabled,
+  .nav-link.disabled:hover {
+    background-color: transparent;
+    border-color: transparent;
+    color: $gray-300;
+  }
+}
+
+
+.breadcrumb {
+  @extend .sandstone;
+  border: 1px solid $gray-300;
+}
+
+.pagination {
+  @extend .sandstone;
+
+  a:hover {
+    text-decoration: none;
+  }
+}
+
+.dropdown-menu {
+  .dropdown-item {
+    @extend .sandstone;
+  }
+}
+
+
+// Indicators
+.alert {
+  color: $white;
+
+  a,
+  .alert-link {
+    color: $white;
+    text-decoration: underline;
+  }
+
+  &-primary {
+    &,
+    > th,
+    > td {
+      background-color: $primary;
+    }
+  }
+
+  &-secondary {
+    &,
+    > th,
+    > td {
+      background-color: $secondary;
+    }
+  }
+
+  &-success {
+    &,
+    > th,
+    > td {
+      background-color: $success;
+    }
+  }
+
+  &-info {
+    &,
+    > th,
+    > td {
+      background-color: $info;
+    }
+  }
+
+  &-danger {
+    &,
+    > th,
+    > td {
+      background-color: $danger;
+    }
+  }
+
+  &-warning {
+    &,
+    > th,
+    > td {
+      background-color: $warning;
+    }
+  }
+
+  &-dark {
+    &,
+    > th,
+    > td {
+      background-color: $dark;
+    }
+  }
+
+  &-light {
+    &,
+    > th,
+    > td {
+      background-color: $light;
+    }
+
+    &,
+    a:not(.btn),
+    .alert-link {
+      color: $body-color;
+    }
+  }
+}
+
+.badge {
+  &.bg-light {
+    color: $dark;
+  }
+}
+
+.tooltip {
+  @extend .sandstone;
+}
+*/
+

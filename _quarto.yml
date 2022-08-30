@@ -4,9 +4,8 @@ project:
 
 website:
   search: false
-  title: "giorgiopaulon.github.io"
+  title: "Giorgio Paulon"
   site-url: "https://giorgiopaulon.github.io"
-  reader-mode: false
   navbar:
     title: false
     background: light
@@ -33,6 +32,10 @@ format:
   html:
     toc: false
     smooth-scroll: true
-    theme: cosmo
-    css: styles.css
+    anchor-sections: false
+    theme: 
+    - cosmo
+    - styles.scss
+    # theme: cosmo
+    # css: styles.css
     code-overflow: wrap
