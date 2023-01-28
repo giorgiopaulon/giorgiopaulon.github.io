@@ -4,21 +4,7 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Paulon, G., Müller, P., Sarkar, A. (2022+). Bayesian semiparametric hidden Markov tensor partition models for longitudinal data with local variable selection. Submitted\nPaulon, G., Müller, P., Sal y Rosas, V. G. (2022+). Bayesian nonparametric bivariate survival regression for current status data. Submitted\nRoark, C. L., Paulon, G., Rebaudo, G., McHaney, J. R., Sarkar, A., Chandrasekaran, B. (2022). Individual differences in working memory impact task engagement and decision processes during speech category learning. Submitted\nRoark, C. L., Paulon, G., Sarkar, A., Chandrasekaran, B. (2021). Comparing perceptual category learning across modalities in the same individuals. Psychonomic Bulletin & Review 28, 898-909\nPaulon, G., Llanos, F., Chandrasekaran, B., Sarkar, A. (2021). Bayesian semiparametric longitudinal drift-diffusion mixed models for tone learning in adults. Journal of the American Statistical Association 116, 1114-1127 [R Package]\nPaulon, G., De Iorio, M., Guglielmi, A., Ieva, F. (2020). Joint modeling of recurrent events and survival: a Bayesian non-parametric approach. Biostatistics 21, 1-14\nPaulon, G., Reetzke, R., Chandrasekaran, B., Sarkar, A. (2019). Functional logistic mixed effects models for learning curves from longitudinal binary data. Journal of Speech, Language, and Hearing Research 62, 543-553 [R Package]\nPaulon, G., Trippa, L., Müller, P. (2018). Invited comment on “Bayesian cluster analysis: point estimation and credible balls”. Bayesian Analysis 13, 590-593 [Markdown]"
-  },
-  {
-    "objectID": "research.html#talks-presentations",
-    "href": "research.html#talks-presentations",
-    "title": "Research",
-    "section": "Talks & Presentations",
-    "text": "Talks & Presentations\n\nDissertation Defense: Bayesian partition models for local inference in longitudinal and survival data. The University of Texas at Austin; August, 2021\nInvited talk: Bayesian semiparametric longitudinal drift-diffusion mixed models for tone learning. Joint Statistical Meetings (JSM), Seattle, WA; August, 2021\nInvited talk: Bayesian semiparametric longitudinal drift-diffusion mixed models for tone learning. International Society for Bayesian Analysis (ISBA), Kunming (China); July, 2021\nInvited talk: Dependent mixtures: Modeling cell lineage. International Chinese Statistical Association (ICSA), Houston, TX; December, 2020\nSDS Seminar Series: Bayesian semiparametric longitudinal drift-diffusion mixed models for tone learning. The University of Texas at Austin; February, 2020\nPoster: Bayesian autoregressive models for waiting times of recurrent events. Bayesian Young Statisticians Meeting (BAYSM), Florence (Italy); June, 2016"
-  },
-  {
-    "objectID": "research.html#research-interests",
-    "href": "research.html#research-interests",
-    "title": "Research",
-    "section": "Research Interests",
-    "text": "Research Interests\n\nBayesian statistics\nMultilevel modeling\nLongitudinal data\nMissing data\nReproducible workflows"
+    "text": "Talks & Presentations\n\nSession chair: Real World Experience in Conducting Adaptive Platform Trials. Speakers: Ed Mills (Cytel), Michelle Detry (Berry Consultants, LLC), Anna McGlothlin (Berry Consultants, LLC), Hong Yu (Massachusetts General Hospital). Society for Clinical Trials (SCT), San Diego, CA; May, 2022\nDissertation Defense: Bayesian partition models for local inference in longitudinal and survival data. The University of Texas at Austin; August, 2021\nInvited talk: Bayesian semiparametric longitudinal drift-diffusion mixed models for tone learning. Joint Statistical Meetings (JSM), Seattle, WA; August, 2021\nInvited talk: Bayesian semiparametric longitudinal drift-diffusion mixed models for tone learning. International Society for Bayesian Analysis (ISBA), Kunming (China); July, 2021\nInvited talk: Dependent mixtures: Modeling cell lineage. International Chinese Statistical Association (ICSA), Houston, TX; December, 2020\nSDS Seminar Series: Bayesian semiparametric longitudinal drift-diffusion mixed models for tone learning. The University of Texas at Austin; February, 2020\nPoster: Bayesian autoregressive models for waiting times of recurrent events. Bayesian Young Statisticians Meeting (BAYSM), Florence (Italy); June, 2016\n\n\n\nApplied Interests\n\nBayesian statistics\nMultilevel modeling\nLongitudinal data\nSurvival analysis\nReproducible workflows\nData visualization\nMissing data"
   },
   {
     "objectID": "index.html",

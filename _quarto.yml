@@ -7,8 +7,7 @@ website:
   title: "Giorgio Paulon"
   site-url: "https://giorgiopaulon.github.io"
   navbar:
-    title: false
-    background: light
+    title: "Giorgio Paulon"
     pinned: true
     left:
       - text: "About"
@@ -25,8 +24,9 @@ website:
       - icon: mortarboard-fill
         href: https://scholar.google.it/citations?user=j-caV3AAAAAJ&hl=en
   page-footer:
+    border: false
     center:
-      - text: "© 2022 Giorgio Paulon"
+      - text: "© 2023 Giorgio Paulon"
 
 format:
   html:
@@ -36,6 +36,4 @@ format:
     theme: 
     - cosmo
     - styles.scss
-    # theme: cosmo
-    # css: styles.css
     code-overflow: wrap
