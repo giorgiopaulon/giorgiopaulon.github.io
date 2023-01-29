@@ -14,8 +14,8 @@ website:
         href: index.qmd
       - text: "Research"
         href: research.qmd
-      - text: "CV"
-        href: /files/Paulon_CV.pdf
+      - text: "Resume"
+        href: /files/Paulon_Resume.pdf
     right:
       - icon: github
         href: https://github.com/giorgiopaulon
