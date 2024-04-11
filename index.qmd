@@ -27,19 +27,19 @@ about:
 </div>
 :::
 
+Hey there! I'm Giorgio Paulon, Statistical Scientist at [Berry Consultants](https://www.berryconsultants.com/).
 
-I am a Statistical Scientist at [Berry Consultants](https://www.berryconsultants.com/) where I work on designing and analyzing innovative and adaptive clinical trials. 
-I completed my PhD in Statistics at The University of Texas at Austin under the joint supervision of [Abhra Sarkar](https://abhrastat.github.io) and [Peter Müller](https://www.ma.utexas.edu/users/pmueller/).
-              
+In my work, I design and analyze innovative and adaptive, often Bayesian, clinical trials. I'm passionate about communicating complex statistical ideas to broad audiences and I love creating efficient workflows that enhance the inferential reproducibility of clinical research.
+
 
 ::: {layout-ncol=2}
-I am originally from <a style="color:rgb(205,38,38);" href="https://en.wikipedia.org/wiki/Udine">Udine</a>, Italy, and I obtained both my BSc and MSc at Politecnico di Milano in Mathematical Engineering. 
+I'm originally from <a style="color:rgb(205,38,38);" href="https://en.wikipedia.org/wiki/Udine">Udine</a>, Italy, and before completing my PhD in Statistics at the University of Texas at Austin I obtained both my BSc and MSc at Politecnico di Milano in Mathematical Engineering. 
 I also spent two years at École Centrale Paris, France, for a double degree program (<a style="color:rgb(205,38,38);" href="https://en.wikipedia.org/wiki/Top_Industrial_Managers_for_Europe">T.I.M.E</a>).
 <br>
 <br>
-I love photography, and I am passionate about travelling.
-**Photography** is a mental exercise that helps me to focus and relax. 
-**Travelling** gives me many motivations and helps me find the unexpected outside of my daily routine.
+Outside of work, I love photography, and I am passionate about traveling. 
+**Photography** is a mental exercise that helps me to focus and unwind. 
+**Traveling** keeps me motivated and gives me new perspectives outside of my everyday routine.
 
 ![Udine, Italy](img/udine.jpg){fig-align="right"}
 :::

@@ -5,9 +5,10 @@ title: "Research"
 
 ### Peer-reviewed Publications / Preprints
 
-* Roark, C. L., **Paulon, G.**, Rebaudo, G., McHaney, J. R., Sarkar, A., Chandrasekaran, B. (2023). [Individual differences in working memory impact task engagement and decision processes during speech category learning.](https://psyarxiv.com/fzqht/) *Under revision*
-* **Paulon, G.**, Müller, P., Sarkar, A. (2023). [Bayesian semiparametric hidden Markov tensor models for time varying random partitions with local variable selection.](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Bayesian-Semiparametric-Hidden-Markov-Tensor-Models-for-Time-Varying-Random/10.1214/23-BA1383.full) *Bayesian Analysis*
-* **Paulon, G.**, Müller, P., Sal y Rosas, V. G. (2022). [Bayesian nonparametric bivariate survival regression for current status data.](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Bayesian-Nonparametric-Bivariate-Survival-Regression-for-Current-Status-Data/10.1214/22-BA1346.full) *Bayesian Analysis*
+* Pradilla, G., Ratcliff, J. J., Hall, A. J., Saville, B. R., Allen, J. W., **Paulon, G.**, and others (2024). [Early minimally invasive removal of intracerebral hemorrhage trial.](https://www.nejm.org/doi/full/10.1056/NEJMoa2308440) *New England Journal of Medicine* **390**, 1277-1289
+* Roark, C. L., **Paulon, G.**, Rebaudo, G., McHaney, J. R., Sarkar, A., Chandrasekaran, B. (2024). [Individual differences in working memory impact task engagement and decision processes during speech category learning.](https://psyarxiv.com/fzqht/) *PloS one*
+* **Paulon, G.**, Müller, P., Sarkar, A. (2024). [Bayesian semiparametric hidden Markov tensor models for time varying random partitions with local variable selection.](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Bayesian-Semiparametric-Hidden-Markov-Tensor-Models-for-Time-Varying-Random/10.1214/23-BA1383.full) *Bayesian Analysis*
+* **Paulon, G.**, Müller, P., Sal y Rosas, V. G. (2024). [Bayesian nonparametric bivariate survival regression for current status data.](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Bayesian-Nonparametric-Bivariate-Survival-Regression-for-Current-Status-Data/10.1214/22-BA1346.full) *Bayesian Analysis* **19**, 49-75
 * Roark, C. L., **Paulon, G.**, Sarkar, A., Chandrasekaran, B. (2021). [Comparing perceptual category learning across modalities in the same individuals.](https://link.springer.com/article/10.3758/s13423-021-01878-0) *Psychonomic Bulletin & Review* **28**, 898-909
 * **Paulon, G.**, Llanos, F., Chandrasekaran, B., Sarkar, A. (2021). [Bayesian semiparametric longitudinal drift-diffusion mixed models for tone learning in adults.](https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1801448) *Journal of the American Statistical Association* **116**, 1114-1127 <a style="color:rgb(205,38,38);" href="https://CRAN.R-project.org/package=lddmm">[R Package]</a>
 * **Paulon, G.**, De Iorio, M., Guglielmi, A., Ieva, F. (2020). [Joint modeling of recurrent events and survival: a Bayesian non-parametric approach.](https://academic.oup.com/biostatistics/advance-article-abstract/doi/10.1093/biostatistics/kxy026/5050476?redirectedFrom=fulltext) *Biostatistics* **21**, 1-14
@@ -19,6 +20,7 @@ title: "Research"
 ### Talks & Presentations
 
 
+* **Invited talk**: Forecasting with Confidence: Harnessing Predictive Probabilities in Practice. *Society for Clinical Trials (SCT), Boston, MA; May, 2024*
 * **Session chair**: Real World Experience in Conducting Adaptive Platform Trials. Speakers: Ed Mills (Cytel), Michelle Detry (Berry Consultants, LLC), Anna McGlothlin (Berry Consultants, LLC), Hong Yu (Massachusetts General Hospital). *Society for Clinical Trials (SCT), San Diego, CA; May, 2022*
 * **Dissertation Defense**: [Bayesian partition models for local inference in longitudinal and survival data. The University of Texas at Austin](/files/dissertation_defense.pdf); *August, 2021*
 * **Invited talk**: Bayesian semiparametric longitudinal drift-diffusion mixed models for tone learning. *Joint Statistical Meetings (JSM), Seattle, WA; August, 2021*
