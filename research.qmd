@@ -20,6 +20,7 @@ title: "Research"
 ### Talks & Presentations
 
 
+* **Invited talk**: ENRICH: A Novel Approach to Clinical Trials in ICH. *Midwest Biopharmaceutical Statistics Workshop (MBSW), Indianapolis, IN; June, 2024*
 * **Invited talk**: Forecasting with Confidence: Harnessing Predictive Probabilities in Practice. *Society for Clinical Trials (SCT), Boston, MA; May, 2024*
 * **Session chair**: Real World Experience in Conducting Adaptive Platform Trials. Speakers: Ed Mills (Cytel), Michelle Detry (Berry Consultants, LLC), Anna McGlothlin (Berry Consultants, LLC), Hong Yu (Massachusetts General Hospital). *Society for Clinical Trials (SCT), San Diego, CA; May, 2022*
 * **Dissertation Defense**: [Bayesian partition models for local inference in longitudinal and survival data. The University of Texas at Austin](/files/dissertation_defense.pdf); *August, 2021*

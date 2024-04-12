@@ -2,7 +2,8 @@
 title: "Giorgio Paulon"
 about:
   id: about-heading
-  template: jolla
+  template: trestles
+  image-shape: rounded
   image: img/profile_pic.jpg
   links:
     - icon: github
@@ -18,28 +19,18 @@ about:
 
 
 :::{#about-heading}
-<div style="text-align: center;">
-<i class="bi bi-laptop-fill"></i> Statistical Scientist @ [Berry Consultants](https://www.berryconsultants.com/) 
-<br>
-<i class="bi bi-envelope-fill"></i> Contact me [here](mailto:giorgiopaulon90@gmail.com) 
-<br>
-<i class="bi bi-geo-alt-fill"></i> Austin, TX
-</div>
-:::
 
 Hey there! I'm Giorgio Paulon, Statistical Scientist at [Berry Consultants](https://www.berryconsultants.com/).
 
 In my work, I design and analyze innovative and adaptive, often Bayesian, clinical trials. I'm passionate about communicating complex statistical ideas to broad audiences and I love creating efficient workflows that enhance the inferential reproducibility of clinical research.
 
 
-::: {layout-ncol=2}
-I'm originally from <a style="color:rgb(205,38,38);" href="https://en.wikipedia.org/wiki/Udine">Udine</a>, Italy, and before completing my PhD in Statistics at the University of Texas at Austin I obtained both my BSc and MSc at Politecnico di Milano in Mathematical Engineering. 
-I also spent two years at École Centrale Paris, France, for a double degree program (<a style="color:rgb(205,38,38);" href="https://en.wikipedia.org/wiki/Top_Industrial_Managers_for_Europe">T.I.M.E</a>).
+I'm originally from <a style="color:rgb(205,38,38);" href="https://en.wikipedia.org/wiki/Udine">Udine</a>, Italy, and I now live in Austin, TX.
+Before completing my PhD in Statistics at the University of Texas at Austin, I studied Mathematical Engineering at Politecnico di Milano and at École Centrale Paris, in the context of a double degree program (<a style="color:rgb(205,38,38);" href="https://en.wikipedia.org/wiki/Top_Industrial_Managers_for_Europe">T.I.M.E</a>).
 <br>
 <br>
 Outside of work, I love photography, and I am passionate about traveling. 
 **Photography** is a mental exercise that helps me to focus and unwind. 
 **Traveling** keeps me motivated and gives me new perspectives outside of my everyday routine.
 
-![Udine, Italy](img/udine.jpg){fig-align="right"}
 :::
