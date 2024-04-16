@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://giorgiopaulon.github.io/teaching.html</loc>
+    <lastmod>2024-04-13T20:57:43.205Z</lastmod>
+  </url>
+  <url>
     <loc>https://giorgiopaulon.github.io/index.html</loc>
-    <lastmod>2024-04-11T20:28:40.057Z</lastmod>
+    <lastmod>2024-04-16T16:52:21.136Z</lastmod>
   </url>
   <url>
     <loc>https://giorgiopaulon.github.io/research.html</loc>
-    <lastmod>2024-04-11T20:28:05.497Z</lastmod>
+    <lastmod>2024-04-16T16:51:48.373Z</lastmod>
   </url>
 </urlset>

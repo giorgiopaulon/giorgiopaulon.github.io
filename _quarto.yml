@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - "*.qmd"
+    - "!photography.qmd"
 
 website:
   search: false
@@ -16,6 +19,7 @@ website:
         href: research.qmd
       - text: "Resume"
         href: /files/Paulon_Resume.pdf
+        target: _blank
     right:
       - icon: github
         href: https://github.com/giorgiopaulon

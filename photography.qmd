@@ -1,0 +1,41 @@
+---
+pagetitle: "Giorgio Paulon - Photography"
+lightbox:
+  match: auto
+  effect: fade
+  loop: true
+---
+
+### Costa Rica
+
+::: {layout-ncol=6}
+
+![](files/photos/DSCF0172.JPG){group="costarica"}
+
+![](files/photos/DSCF0185.JPG){group="costarica"}
+
+![](files/photos/DSCF0243.JPG){group="costarica"}
+
+![](files/photos/DSCF0326.JPG){group="costarica"}
+
+![](files/photos/DSCF0246.jpg){group="costarica"}
+
+![](files/photos/DSCF0295.JPG){group="costarica"}
+
+:::
+
+
+### Peru
+
+::: {layout-ncol=6}
+
+![](files/photos/6A70453D-A88C-4A05-A9A9-AC9ABE00DB3E-3212-000000688C274408.JPG){group="peru"}
+
+![](files/photos/E231EE59-B66A-4D12-BD7B-006344B2D225-319-0000003CF7418E4F.JPG){group="peru"}
+
+![](files/photos/827257E6-8929-42E0-9213-6C25F43DA309-3212-0000006875DFA24E.JPG){group="peru"}
+
+![](files/photos/B33D9A25-79E6-4E0F-B510-66351067E9CA-2234-00000046E482E618.JPG){group="peru"}
+
+:::
+
