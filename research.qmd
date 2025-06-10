@@ -8,7 +8,7 @@ pagetitle: "Giorgio Paulon - Research"
 #### Clinical Trial Design and Implementation
 
 
-* Dres, M., Ewert, R., Conrad, S. A., Ataya, A., Shrager, J., Mortaza, S., Delamaire, F., Nilius, G., Heine, A., Mehta, N., Ways, J., Evans, D., **Paulon, G.**, Khandwala, F., Berry, N., Viele, K., and others (2025). [Temporary Transvenous Diaphragm Neurostimulation for Weaning from Mechanical Ventilation (RESCUE-3).] *American Journal of Respiratory and Critical Care Medicine*
+* Dres, M., Ewert, R., Conrad, S. A., Ataya, A., Shrager, J., Mortaza, S., Delamaire, F., Nilius, G., Heine, A., Mehta, N., Ways, J., Evans, D., **Paulon, G.**, Khandwala, F., Berry, N., Viele, K., and others (2025). Temporary Transvenous Diaphragm Neurostimulation for Weaning from Mechanical Ventilation (RESCUE-3). *American Journal of Respiratory and Critical Care Medicine*
 * Pradilla, G., Ratcliff, J. J., Hall, A. J., Saville, B. R., Allen, J. W., **Paulon, G.**, and others (2024). [Early minimally invasive removal of intracerebral hemorrhage trial.](https://www.nejm.org/doi/full/10.1056/NEJMoa2308440) *New England Journal of Medicine* **390**, 1277-1289
 
 
