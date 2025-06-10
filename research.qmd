@@ -7,6 +7,8 @@ pagetitle: "Giorgio Paulon - Research"
 
 #### Clinical Trial Design and Implementation
 
+
+* Dres, M., Ewert, R., Conrad, S. A., Ataya, A., Shrager, J., Mortaza, S., Delamaire, F., Nilius, G., Heine, A., Mehta, N., Ways, J., Evans, D., **Paulon, G.**, Khandwala, F., Berry, N., Viele, K., and others (2025). [Temporary Transvenous Diaphragm Neurostimulation for Weaning from Mechanical Ventilation (RESCUE-3).] *American Journal of Respiratory and Critical Care Medicine*
 * Pradilla, G., Ratcliff, J. J., Hall, A. J., Saville, B. R., Allen, J. W., **Paulon, G.**, and others (2024). [Early minimally invasive removal of intracerebral hemorrhage trial.](https://www.nejm.org/doi/full/10.1056/NEJMoa2308440) *New England Journal of Medicine* **390**, 1277-1289
 
 
@@ -37,6 +39,7 @@ All course materials are publicly available [here](https://giorgiopaulon.github.
 ## Talks & Presentations
 
 
+* **Invited talk**: Planning for Heterogeneous Treatment Effects: Enrichment for Treatment-Sensitive Patient Populations. *Society for Clinical Trials (SCT), Vancouver (Canada); May, 2025*
 * **Invited talk**: Forecasting with Confidence: Harnessing Predictive Probabilities in Practice. *Society for Clinical Trials (SCT), Boston, MA; May, 2024*
 * **Invited talk**: ENRICH: A Novel Approach to Clinical Trials in ICH. *Midwest Biopharmaceutical Statistics Workshop (MBSW), Indianapolis, IN; June, 2024*
 * **Session chair**: Real World Experience in Conducting Adaptive Platform Trials. Speakers: Ed Mills (Cytel), Michelle Detry (Berry Consultants, LLC), Anna McGlothlin (Berry Consultants, LLC), Hong Yu (Massachusetts General Hospital). *Society for Clinical Trials (SCT), San Diego, CA; May, 2022*

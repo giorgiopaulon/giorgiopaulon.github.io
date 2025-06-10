@@ -21,6 +21,9 @@ website:
         href: /files/Paulon_Resume.pdf
         target: _blank
     right:
+      - text: Contact Me
+        href: "mailto:giorgiopaulon90@gmail.com"
+        icon: envelope
       - icon: github
         href: https://github.com/giorgiopaulon
       - icon: linkedin
@@ -30,7 +33,7 @@ website:
   page-footer:
     border: false
     center:
-      - text: "© 2022 - 2024 Giorgio Paulon"
+      - text: "© 2022 - 2025 Giorgio Paulon"
 
 format:
   html:

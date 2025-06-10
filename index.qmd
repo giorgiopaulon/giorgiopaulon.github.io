@@ -21,17 +21,13 @@ about:
 
 :::{#about-heading}
 
-Hey there! I'm Giorgio Paulon, Statistical Scientist at [Berry Consultants](https://www.berryconsultants.com/).
+Hey there! I’m Giorgio Paulon, a Statistical Scientist at [Berry Consultants](https://www.berryconsultants.com/).
 
-In my work, I design and analyze innovative and adaptive, often Bayesian, clinical trials. I'm passionate about communicating complex statistical ideas to broad audiences and I love creating efficient workflows that enhance the inferential reproducibility of clinical research.
+I design and analyze innovative - often Bayesian - and adaptive clinical trials. I’ve worked on everything from simulation-based design to communicating interim results to DSMBs. I care deeply about reproducibility and transparency in clinical research, and I love building clean workflows that help teams make better decisions with data.
 
-
-I'm originally from <a style="color:rgb(205,38,38);" href="https://en.wikipedia.org/wiki/Udine">Udine</a>, Italy, and I now live in Austin, TX.
-Before completing my PhD in Statistics at the University of Texas at Austin, I studied Mathematical Engineering at Politecnico di Milano and at École Centrale Paris, in the context of a double degree program (<a style="color:rgb(205,38,38);" href="https://en.wikipedia.org/wiki/Top_Industrial_Managers_for_Europe">T.I.M.E</a>).
+I’m originally from <a style="color:rgb(205,38,38);" href="https://en.wikipedia.org/wiki/Udine">Udine</a>, Italy, and now live in Austin, TX. I completed my PhD in Statistics at the University of Texas at Austin, where I worked on Bayesian clustering methods for longitudinal data and collaborated on neuroscience experiments. Before that, I studied Mathematical Engineering at Politecnico di Milano and École Centrale Paris through a double degree program (<a style="color:rgb(205,38,38);" href="https://en.wikipedia.org/wiki/Top_Industrial_Managers_for_Europe">T.I.M.E</a>).
 <br>
 <br>
-Outside of work, I love photography, and I am passionate about traveling. 
-**Photography** is a mental exercise that helps me to focus and unwind. 
-**Traveling** keeps me motivated and gives me new perspectives outside of my everyday routine.
+Outside of work, I’m into photography and travel. **Photography** helps me slow down and pay attention to detail; **travel** keeps me inspired and curious - both are ways I stay connected to the world beyond the screen.
 
 :::
